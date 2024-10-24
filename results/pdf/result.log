@@ -1,0 +1,35 @@
+Results for 1pdf_hash.txt:
+?:password123
+
+1 password hash cracked, 0 left
+Cracking method: dictionary attack
+Time taken:  seconds
+---------------------------------------------
+Results for 2pdf_hash.txt:
+?:qwerty
+
+1 password hash cracked, 0 left
+Cracking method: dictionary attack
+Time taken:  seconds
+---------------------------------------------
+Results for 3pdf_hash.txt:
+?:P@ssw0rd
+
+1 password hash cracked, 0 left
+Cracking method: dictionary attack
+Time taken:  seconds
+---------------------------------------------
+Results for 4pdf_hash.txt:
+0 password hashes cracked, 1 left
+Password not cracked
+Dictionary attack time: 5 seconds
+Brute-force attack time: 180 seconds
+Rule-based attack time: 180 seconds
+---------------------------------------------
+Results for 5pdf_hash.txt:
+0 password hashes cracked, 1 left
+Password not cracked
+Dictionary attack time: 5 seconds
+Brute-force attack time: 180 seconds
+Rule-based attack time: 181 seconds
+---------------------------------------------

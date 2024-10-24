@@ -1,0 +1,35 @@
+Results for 1zip_hash.txt:
+?:password123
+
+1 password hash cracked, 0 left
+Cracking method: dictionary attack
+Time taken:  seconds
+---------------------------------------------
+Results for 2zip_hash.txt:
+?:qwerty
+
+1 password hash cracked, 0 left
+Cracking method: dictionary attack
+Time taken:  seconds
+---------------------------------------------
+Results for 3zip_hash.txt:
+?:P@ssw0rd
+
+1 password hash cracked, 0 left
+Cracking method: dictionary attack
+Time taken:  seconds
+---------------------------------------------
+Results for 4zip_hash.txt:
+0 password hashes cracked, 1 left
+Password not cracked
+Dictionary attack time: 1 seconds
+Brute-force attack time: 180 seconds
+Rule-based attack time: 180 seconds
+---------------------------------------------
+Results for 5zip_hash.txt:
+0 password hashes cracked, 1 left
+Password not cracked
+Dictionary attack time: 1 seconds
+Brute-force attack time: 180 seconds
+Rule-based attack time: 180 seconds
+---------------------------------------------
