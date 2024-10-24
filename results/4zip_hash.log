@@ -1,0 +1,25 @@
+Cracking attempt for 4zip_hash.txt
+Tue Oct 22 01:10:21 BST 2024
+---------------------------------------------
+Starting brute-force attack using John the Ripper...
+Hash file: 4zip_hash.txt
+---------------------------------------------
+---------------------------------------------
+Brute-force attack completed or timed out after 30 minutes.
+Duration: 1800 seconds
+Results:
+0 password hashes cracked, 1 left
+Starting hybrid attack using John the Ripper...
+Hash file: 4zip_hash.txt
+---------------------------------------------
+---------------------------------------------
+Hybrid attack completed or timed out after 30 minutes.
+Duration: 1800 seconds
+Results:
+0 password hashes cracked, 1 left
+All attacks unsuccessful. Password not cracked.
+Cracking method: Brute-force, Hybrid
+Time taken: 3600 seconds
+Success: No
+Brute-force attack duration: 1800 seconds
+Hybrid attack duration: 1800 seconds
