@@ -20,8 +20,6 @@ This script performs a brute-force and rule-based attack on a given hash file us
 All the crack results are saved in the results folder.
 
 ## Result.log 
-Here is an example of the content of the result.log file
-
 The `result.log` file contains the results of the password cracking attempts for various hash files. Each entry in the log provides detailed information about the cracking process, including:
 
 - The name of the hash file.
